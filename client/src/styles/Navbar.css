@@ -21,9 +21,9 @@ background-color: rgb(43, 43, 43);
 
 .brand-name {
   text-decoration: none;
-  color: yellow;
-  font-weight: 600;
-  font-family: cursive;
+color: white;
+  font-weight: 500;
+  
   font-size: 1.8rem;
   margin-left: 4rem;
   opacity: 1;

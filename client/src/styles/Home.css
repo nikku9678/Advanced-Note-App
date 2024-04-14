@@ -1,0 +1,12 @@
+.note-container{
+    width: 80%;
+    margin: 50px auto;
+    display: flex;
+    justify-content: center;
+
+}
+.note{
+    padding: 10px;
+    width: 250px;
+    border: 2px solid black;
+}
